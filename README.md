@@ -1,5 +1,5 @@
 ## foodie blog
-This is my final project.
+In this project, I created a food blog website to provide easy reference for users related their diet tips and their needs. Providing healthy tips to user along with recipes is the main idea. I used HTML, CSS, JAVASCRIPT for creating the website. I made Home, Contact, and About Page.
 ## azure link https://agreeable-ground-0ec9f1410.2.azurestaticapps.net/
 
 ## Home page
